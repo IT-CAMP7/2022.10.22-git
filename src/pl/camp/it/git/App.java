@@ -9,6 +9,5 @@ public class App {
         System.out.println("jeszcze cos nowego !!");
 
 
-        System.out.println("Kolejna rzecz !!");
     }
 }
