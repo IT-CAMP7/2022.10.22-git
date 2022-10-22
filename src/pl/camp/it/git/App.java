@@ -5,5 +5,7 @@ public class App {
         System.out.println("GIT !!!");
 
         System.out.println("cos nowego");
+
+        System.out.println("jeszcze cos nowego !!");
     }
 }
