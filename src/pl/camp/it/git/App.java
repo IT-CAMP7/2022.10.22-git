@@ -7,5 +7,7 @@ public class App {
         System.out.println("cos nowego");
 
         System.out.println("jeszcze cos nowego !!");
+
+
     }
 }
